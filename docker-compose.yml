@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  tech_train_da:
+    image: tech_train_da
+    build:
+      context   : ./
+      dockerfile: ./docker/Dockerfile
+    container_name: "tech_train_da"
+    volumes:
+      - ./work:/home/access/work
+    ports:
+      - "8888:8888" # used by jupyter lab
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    tty: true
+    entrypoint: "jupyter lab --ServerApp.token='' --ip=0.0.0.0 --port=8888"

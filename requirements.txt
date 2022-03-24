@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+scikit-learn
+
+# for jupyter
+jupyterlab
+ipywidgets
+
+# for NLP
+mecab-python3
+cabocha-python
+pyknp
+oseti
