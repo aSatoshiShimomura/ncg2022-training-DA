@@ -9,5 +9,5 @@ About this repository
 Guidance
 -----
 
-研修に関する情報は、[DA研修手引き (Google docs)](https://docs.google.com/document/d/1GguszbmIGmBzVBbQopHioNJflouM8zASGVP0EY_I1gg/edit#heading=h.eozf14xuzom2) を参照してください。
+研修に関する情報は、[DA研修手引き (Google docs)](https://docs.google.com/document/d/1sKovPfTcFoPut1di9ey6q6YZ8AWzyiLUcouu5flehHg/edit?usp=sharing) を参照してください。
 ドキュメントのメンテナンスコストを削減するために上記ドキュメントに一元化しています。
